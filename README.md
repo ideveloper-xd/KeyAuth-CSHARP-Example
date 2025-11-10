@@ -1,4 +1,4 @@
-# KeyAuth-CSHARP-Example : Please star 🌟
+# KeyAuth-CSHARP-Example : Please star1 🌟
 
 KeyAuth C# example SDK for https://keyauth.cc license key API auth.
 
